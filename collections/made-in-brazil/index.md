@@ -1,4 +1,7 @@
----
+git branch -m main Usmanmain
+git fetch origin
+git branch -u origin/Usmanmain Usmanmain
+git remote set-head origin -a---
 items:
   - clappr/clappr
   - devhubapp/devhub
